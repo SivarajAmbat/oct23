@@ -1,0 +1,24 @@
+{ 
+  "employees" : [
+    {
+      "id": 1,
+      "name": "Peter Parker"
+    },
+    {
+      "id": 2,
+      "name": "Mary Jane"
+    },
+    {
+      "id": 3,
+      "name": "John Rambo"
+    },
+    {
+      "id": 4,
+      "name": "Jet Li"
+    },
+    {
+      "id": 5,
+      "name": "Bruce Lee"
+    }
+  ]
+}
